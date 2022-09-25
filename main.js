@@ -8,6 +8,7 @@
 // @match        https://www.kaggleusercontent.com/*
 // @icon         https://www.kaggle.com/static/images/favicon.ico
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 ;(function () {
